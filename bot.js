@@ -7,7 +7,7 @@ function createBot () {
     host: "norman2104.aternos.me",
     port: "17311",
     username: "activator",
-    version: false
+    version: 1.20.4
     })
     bot.on('login', function() {
       bot.chat('/reginster 123123123 123123123')
